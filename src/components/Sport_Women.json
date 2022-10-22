@@ -1,0 +1,39 @@
+[
+    {
+        "id": "women1",
+        "tshirt": "false",
+        "shorts": "false",
+        "footwear": "false",
+        "bra": "true",
+        "tights": "false",
+        "bestSeller": "true",
+        "justLaunched": "false",
+        "name": "FormFit High Impact Ivy Sports Bra",
+        "price": "2499",
+        "offerPrice": "1299",
+        "perOff": "48 % Off",
+        "desp": "Your perfect training partner, this sports bra with its hidden stabilizer panels promises extra support and bounce control, especially during high impact activities. The power mesh allows for better ventilation and the hook & eye closure adds to your convenience while offering additional adjustability. Time to be fit with FormFit!",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "details": [
+            "Color: Pink",
+            "Padded",
+            "High Impact",
+            "Detachable Straps For Criss Cross Option",
+            "Hook And Eye Closure"
+        ],
+        "specs": "Sri L",
+        "smallImg": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/anBREptvxVED3KMUSXcPpTen",
+        "mainImg": [
+            "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/anBREptvxVED3KMUSXcPpTen",
+            "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/RcDLWanZ6ZC6XWRwN6S5uxPC",
+            "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/YwudjwpTfTMua3Qr76MmTr97",
+            "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/sSKzbF9iU1FTtko1YKkRjiJK"
+        ]
+    }
+]
